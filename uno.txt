@@ -2,4 +2,7 @@ HEAD
 Primera línea
 Segunda línea
 RamaDos
+HEAD
 dos
+uno
+a05e72de20a3538875dffd41cef7f6ee70f88eb3
